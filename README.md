@@ -90,12 +90,6 @@ InsightSpy/
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots or GIFs here showing the extension in action detecting dark patterns*
-
----
-
 ## 📬 Contact
 
 Created by **Yasir Hussain**
