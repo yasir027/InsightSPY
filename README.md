@@ -1,5 +1,4 @@
 
-````markdown
 # 🔍 InsightSpy – Dark Pattern Detection Web Extension
 
 **InsightSpy** is a browser extension that detects **dark patterns** on e-commerce websites and alerts users in real-time. Built using **vanilla JavaScript**, it aims to promote ethical design awareness and protect consumers from manipulative UI/UX practices.
